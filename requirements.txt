@@ -1,0 +1,11 @@
+quantecon
+numpy
+scipy
+pandas
+sympy
+numba
+requests
+sphinx
+ipython
+numpydoc
+matplotlib
